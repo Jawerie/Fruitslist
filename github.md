@@ -22,3 +22,11 @@ POUR LE PHP :
 
 dependabot sgnale des faille de sécurité
 
+une fois dans le dossier qui contient l readme
+
+git init ;
+git add .
+git commit -m "first commit" ;
+git branch -M main ;
+git remote add origin https://github.com/JamsJam/helloworld.git ;
+git push -u origin main ;
